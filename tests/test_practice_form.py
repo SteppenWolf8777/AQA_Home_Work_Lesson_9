@@ -1,5 +1,5 @@
-from classes.formPage import FormPage
-from classes.userData import UserData
+from pages.form_page import FormPage
+from data.user_data import UserData
 
 
 def test_demo_aqa():
