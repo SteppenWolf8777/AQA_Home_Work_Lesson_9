@@ -1,6 +1,6 @@
 from pathlib import Path
 from selene import browser, have
-from classes.userData import UserData
+from pages.userData import UserData
 
 
 class FormPage:
